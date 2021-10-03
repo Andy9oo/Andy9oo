@@ -1,5 +1,5 @@
 👋 Hi, I’m Andrew</br>
 👀 I’m interested in search engines and Go</br>
-🌱 I’m currently learning TypeScript and Go</br>
-💞️ I’m looking to collaborate on developer tools and search engines</br>
+🌱 I’m currently learning Typescript</br>
+💞️ I’m looking to collaborate on open source search engines</br>
 📫 You can reach me on my email: andrew@cullis.dev</br>
